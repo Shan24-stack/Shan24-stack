@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sanu Singh! <br>🎓 Dual-Degree Scholar<br><br>Integrated M.Tech in Artificial Intelligence @ VIT Bhopal (Year-2025)<br><br>BS in Data Science and Applications @ IIT Madras<br><br>I’m a developer and student researcher focused on the intersection of AI, Big Data, and Scalable Applications. I enjoy turning complex data into actionable insights and building tools that simplify financial or technical workflows.
+👋 Hi, I'm Sanu Singh! <br>🎓 Dual-Degree Scholar<br><br>Integrated M.Tech in Artificial Intelligence @ VIT Bhopal (1st Year)<br><br>BS in Data Science and Applications @ IIT Madras<br><br>I’m a developer and student researcher focused on the intersection of AI, Big Data, and Scalable Applications. I enjoy turning complex data into actionable insights and building tools that simplify financial or technical workflows.
 
 
 ## 🌐 Socials:
